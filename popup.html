@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body { width: 400px; padding: 15px; font-family: Arial, sans-serif; max-height: 600px; overflow-y: auto; }
+    h3 { margin: 0 0 15px 0; color: #333; }
+    button { 
+      width: 100%; 
+      padding: 12px; 
+      margin: 8px 0; 
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 14px;
+      font-weight: bold;
+    }
+    .csv-btn { background: #4CAF50; color: white; }
+    .csv-btn:hover { background: #45a049; }
+    .quick-btn { background: #FF9800; color: white; }
+    .quick-btn:hover { background: #F57C00; }
+    .column-section { 
+      margin: 15px 0; 
+      padding: 10px; 
+      border: 1px solid #ddd; 
+      border-radius: 4px;
+      display: none;
+    }
+    .column-title { font-weight: bold; margin-bottom: 8px; }
+    .column-item { 
+      margin: 4px 0; 
+      font-size: 12px;
+    }
+    .column-item input { margin-right: 6px; }
+    .status { 
+      padding: 8px; 
+      margin: 8px 0; 
+      border-radius: 4px; 
+      font-size: 12px;
+      text-align: center;
+    }
+    .success { background: #d4edda; color: #155724; }
+    .error { background: #f8d7da; color: #721c24; }
+    .info { background: #d1ecf1; color: #0c5460; }
+    .select-all { font-size: 11px; color: #666; cursor: pointer; text-decoration: underline; }
+    .button-row { display: flex; gap: 5px; }
+    .button-row button { flex: 1; }
+  </style>
+</head>
+<body>
+  <h3>JOSAA Table Extractor</h3>
+  
+  <button id="quickCsvBtn" class="quick-btn">Quick Download (All Columns)</button>
+  <button id="selectColumnsBtn" class="csv-btn">Select Columns & Download</button>
+  
+  <div id="columnSection" class="column-section">
+    <div class="column-title">Select Columns to Include:</div>
+    <div class="select-all" onclick="toggleAllColumns()">Select All / None</div>
+    <div id="columnOptions"></div>
+    <div class="button-row">
+      <button id="downloadSelectedBtn" class="csv-btn">Download Selected</button>
+      <button id="cancelBtn" class="quick-btn">Cancel</button>
+    </div>
+  </div>
+  
+  <div id="status" class="status" style="display: none;"></div>
+  
+  <script src="popup.js"></script>
+</body>
+</html>
