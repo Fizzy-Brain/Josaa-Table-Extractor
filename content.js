@@ -103,9 +103,6 @@ function getTableColumns() {
     }
   }
   
-  // Add Total column (Seat Capacity + Female Supernumerary)
-  columns.push('Total');
-  
   return columns;
 }
 
@@ -196,11 +193,9 @@ function extractTableToCSV(filename, selectedColumns, allColumns) {
     columnsToSplit[col] = isProgramTotalColumn && hasSpaceSeparatedValues;
   }
   
-  // Process grid to split Program Total columns and add totals
+  // Process grid to split Program Total columns
   const processedGrid = originalGrid.map((row, rowIndex) => {
     const newRow = [];
-    let seatCapacity = 0;
-    let femaleSupernumerary = 0;
     
     for (let col = 0; col < row.length; col++) {
       const cellValue = row[col] || '';
@@ -213,8 +208,6 @@ function extractTableToCSV(filename, selectedColumns, allColumns) {
           const female = values[1] || '0';
           newRow.push(seat);
           newRow.push(female);
-          seatCapacity = parseInt(seat) || 0;
-          femaleSupernumerary = parseInt(female) || 0;
         } else {
           // For header rows
           if (rowIndex < 3) {
@@ -228,14 +221,6 @@ function extractTableToCSV(filename, selectedColumns, allColumns) {
       } else {
         newRow.push(cellValue);
       }
-    }
-    
-    // Add Total column (Seat Capacity + Female Supernumerary)
-    if (rowIndex < 3) {
-      newRow.push('Total');
-    } else {
-      const total = seatCapacity + femaleSupernumerary;
-      newRow.push(total.toString());
     }
     
     return newRow;
