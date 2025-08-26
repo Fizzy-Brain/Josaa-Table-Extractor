@@ -38,16 +38,6 @@ chrome.runtime.onMessage.addListener(function(request, sender, sendResponse) {
   }
 });
 
-
-
-
-
-
-
-
-
-
-
 function sanitizeFilename(text) {
   return text.replace(/[^a-z0-9]/gi, '_').toLowerCase();
 }
@@ -231,15 +221,25 @@ function extractTableToCSV(filename, selectedColumns, allColumns) {
   if (selectedColumns && !allColumns) {
     csvData = processedGrid.map(row => {
       return selectedColumns.map(colIndex => {
-        const text = (row[colIndex] || '').replace(/\s+/g, ' ').replace(/"/g, '""');
-        return `"${text}"`;
+        let text = (row[colIndex] || '').replace(/\s+/g, ' ');
+        // Convert to number if it's numeric, otherwise keep as quoted string
+        if (/^\d+$/.test(text.trim())) {
+          return text.trim();
+        } else {
+          return `"${text.replace(/"/g, '""')}"`;
+        }
       }).join(',');
     }).join('\n');
   } else {
     csvData = processedGrid.map(row => {
       return row.map(cell => {
-        const text = (cell || '').replace(/\s+/g, ' ').replace(/"/g, '""');
-        return `"${text}"`;
+        let text = (cell || '').replace(/\s+/g, ' ');
+        // Convert to number if it's numeric, otherwise keep as quoted string
+        if (/^\d+$/.test(text.trim())) {
+          return text.trim();
+        } else {
+          return `"${text.replace(/"/g, '""')}"`;
+        }
       }).join(',');
     }).join('\n');
   }

@@ -1,52 +1,131 @@
 Institute Name,2024-25 Seat Capacity,2024-25 Female Supernumerary,2024-25 Total,2025-26 Seat Capacity,2025-26 Female Supernumerary,2025-26 Total,Difference
-"Dr. B R Ambedkar National Institute of Technology, Jalandhar",1103.0,3.0,1106.0,1103,0,1103,-3.0
-Indian Institute of Technology (BHU) Varanasi,1513.0,76.0,1589.0,1528,61,1589,0.0
-Indian Institute of Technology (ISM) Dhanbad,1010.0,115.0,1125.0,1109,101,1210,85.0
-Indian Institute of Technology Bhilai,270.0,9.0,279.0,316,13,329,50.0
-Indian Institute of Technology Bhubaneswar,496.0,0.0,496.0,496,0,496,0.0
-Indian Institute of Technology Bombay,1204.0,174.0,1378.0,1204,156,1360,-18.0
-Indian Institute of Technology Delhi,1152.0,57.0,1209.0,1239,0,1239,30.0
-Indian Institute of Technology Dharwad,363.0,22.0,385.0,363,22,385,0.0
-Indian Institute of Technology Gandhinagar,320.0,80.0,400.0,288,72,360,-40.0
-Indian Institute of Technology Goa,125.0,32.0,157.0,132,33,165,8.0
-Indian Institute of Technology Guwahati,855.0,107.0,962.0,855,107,962,0.0
-Indian Institute of Technology Hyderabad,494.0,101.0,595.0,529,101,630,35.0
-Indian Institute of Technology Indore,445.0,35.0,480.0,445,35,480,0.0
-Indian Institute of Technology Jammu,280.0,0.0,280.0,305,0,305,25.0
-Indian Institute of Technology Jodhpur,480.0,120.0,600.0,488,122,610,10.0
-Indian Institute of Technology Kanpur,964.0,246.0,1210.0,964,246,1210,0.0
-Indian Institute of Technology Kharagpur,1699.0,200.0,1899.0,1719,200,1919,20.0
-Indian Institute of Technology Madras,1054.0,74.0,1128.0,1054,67,1121,-7.0
-Indian Institute of Technology Mandi,501.0,19.0,520.0,501,19,520,0.0
-Indian Institute of Technology Palakkad,160.0,40.0,200.0,160,40,200,0.0
-Indian Institute of Technology Patna,782.0,42.0,824.0,782,35,817,-7.0
-Indian Institute of Technology Roorkee,1225.0,128.0,1353.0,1246,107,1353,0.0
-Indian Institute of Technology Ropar,382.0,48.0,430.0,598,48,646,216.0
-Indian Institute of Technology Tirupati,241.0,13.0,254.0,241,13,254,0.0
-Malaviya National Institute of Technology Jaipur,888.0,0.0,888.0,888,0,888,0.0
-Maulana Azad National Institute of Technology Bhopal,962.0,241.0,1203.0,970,233,1203,0.0
-Motilal Nehru National Institute of Technology Allahabad,1078.0,56.0,1134.0,1078,56,1134,0.0
-National Institute of Technology Agartala,875.0,209.0,1084.0,942,218,1160,76.0
-National Institute of Technology Arunachal Pradesh,160.0,0.0,160.0,230,0,230,70.0
-National Institute of Technology Calicut,1196.0,44.0,1240.0,1238,40,1278,38.0
-National Institute of Technology Delhi,374.0,0.0,374.0,374,0,374,0.0
-National Institute of Technology Durgapur,969.0,0.0,969.0,969,0,969,0.0
-National Institute of Technology Goa,224.0,0.0,224.0,224,0,224,0.0
-National Institute of Technology Hamirpur,944.0,0.0,944.0,944,0,944,0.0
-"National Institute of Technology Karnataka, Surathkal",956.0,2.0,958.0,956,5,961,3.0
-National Institute of Technology Meghalaya,165.0,0.0,165.0,165,0,165,0.0
-National Institute of Technology Nagaland,198.0,2.0,200.0,198,3,201,1.0
-National Institute of Technology Patna,941.0,0.0,941.0,980,1,981,40.0
-National Institute of Technology Puducherry,253.0,0.0,253.0,275,0,275,22.0
-National Institute of Technology Raipur,1158.0,1.0,1159.0,1158,1,1159,0.0
-National Institute of Technology Sikkim,190.0,0.0,190.0,190,0,190,0.0
-"National Institute of Technology, Jamshedpur",751.0,0.0,751.0,751,0,751,0.0
-"National Institute of Technology, Kurukshetra",1147.0,0.0,1147.0,1147,0,1147,0.0
-"National Institute of Technology, Manipur",226.0,0.0,226.0,226,0,226,0.0
-"National Institute of Technology, Mizoram",177.0,13.0,190.0,177,13,190,0.0
-"National Institute of Technology, Rourkela",1058.0,7.0,1065.0,1058,2,1060,-5.0
-"National Institute of Technology, Silchar",903.0,0.0,903.0,903,0,903,0.0
-"National Institute of Technology, Srinagar",860.0,39.0,899.0,860,39,899,0.0
-"National Institute of Technology, Tiruchirappalli",1038.0,0.0,1038.0,1038,0,1038,0.0
-"National Institute of Technology, Uttarakhand",160.0,40.0,200.0,200,0,200,0.0
-"National Institute of Technology, Warangal",727.0,0.0,727.0,1049,0,1049,322.0
+"Assam University, Silchar",0.0,0.0,0.0,180.0,0.0,180.0,180.0
+Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior,0.0,0.0,0.0,360.0,0.0,360.0,360.0
+"Birla Institute of Technology, Deoghar Off-Campus",0.0,0.0,0.0,281.0,24.0,305.0,305.0
+"Birla Institute of Technology, Mesra, Ranchi",0.0,0.0,0.0,1207.0,105.0,1312.0,1312.0
+"Birla Institute of Technology, Patna Off-Campus",0.0,0.0,0.0,424.0,39.0,463.0,463.0
+CU Jharkhand,0.0,0.0,0.0,84.0,0.0,84.0,84.0
+Central University of Haryana,0.0,0.0,0.0,210.0,0.0,210.0,210.0
+Central University of Jammu,0.0,0.0,0.0,300.0,0.0,300.0,300.0
+"Central University of Rajasthan, Rajasthan",0.0,0.0,0.0,90.0,0.0,90.0,90.0
+"Central institute of Technology Kokrajar, Assam",0.0,0.0,0.0,20.0,4.0,24.0,24.0
+"Chhattisgarh Swami Vivekanada Technical University, Bhilai (CSVTU Bhilai)",0.0,0.0,0.0,120.0,0.0,120.0,120.0
+"Dr. B R Ambedkar National Institute of Technology, Jalandhar",1103.0,3.0,1106.0,1103.0,0.0,1103.0,-3.0
+"Gati Shakti Vishwavidyalaya, Vadodara",0.0,0.0,0.0,340.0,26.0,366.0,366.0
+"Ghani Khan Choudhary Institute of Engineering and Technology, Malda, West Bengal",0.0,0.0,0.0,187.0,14.0,201.0,201.0
+"Gurukula Kangri Vishwavidyalaya, Haridwar",0.0,0.0,0.0,545.0,0.0,545.0,545.0
+INDIAN INSTITUTE OF INFORMATION TECHNOLOGY SENAPATI MANIPUR,0.0,0.0,0.0,550.0,110.0,660.0,660.0
+"Indian Institute of Carpet Technology, Bhadohi",0.0,0.0,0.0,30.0,6.0,36.0,36.0
+"Indian Institute of Engineering Science and Technology, Shibpur",0.0,0.0,0.0,810.0,0.0,810.0,810.0
+"Indian Institute of Handloom Technology(IIHT), Varanasi",0.0,0.0,0.0,33.0,0.0,33.0,33.0
+"Indian Institute of Handloom Technology, Salem",0.0,0.0,0.0,30.0,0.0,30.0,30.0
+Indian Institute of Information Technology (IIIT) Nagpur,0.0,0.0,0.0,648.0,0.0,648.0,648.0
+Indian Institute of Information Technology (IIIT) Pune,0.0,0.0,0.0,445.0,0.0,445.0,445.0
+Indian Institute of Information Technology (IIIT) Ranchi,0.0,0.0,0.0,320.0,0.0,320.0,320.0
+"Indian Institute of Information Technology (IIIT), Sri City, Chittoor",0.0,0.0,0.0,365.0,73.0,438.0,438.0
+"Indian Institute of Information Technology (IIIT)Kota, Rajasthan",0.0,0.0,0.0,264.0,66.0,330.0,330.0
+Indian Institute of Information Technology Bhagalpur,0.0,0.0,0.0,312.0,32.0,344.0,344.0
+Indian Institute of Information Technology Bhopal,0.0,0.0,0.0,705.0,0.0,705.0,705.0
+"Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh",0.0,0.0,0.0,310.0,21.0,331.0,331.0
+Indian Institute of Information Technology Guwahati,0.0,0.0,0.0,213.0,41.0,254.0,254.0
+Indian Institute of Information Technology Lucknow,0.0,0.0,0.0,240.0,0.0,240.0,240.0
+Indian Institute of Information Technology Surat,0.0,0.0,0.0,235.0,47.0,282.0,282.0
+Indian Institute of Information Technology Tiruchirappalli,0.0,0.0,0.0,225.0,0.0,225.0,225.0
+Indian Institute of Information Technology(IIIT) Dharwad,0.0,0.0,0.0,405.0,81.0,486.0,486.0
+"Indian Institute of Information Technology(IIIT) Kalyani, West Bengal",0.0,0.0,0.0,218.0,19.0,237.0,237.0
+"Indian Institute of Information Technology(IIIT) Kilohrad, Sonepat, Haryana",0.0,0.0,0.0,240.0,0.0,240.0,240.0
+Indian Institute of Information Technology(IIIT) Kottayam,0.0,0.0,0.0,458.0,98.0,556.0,556.0
+"Indian Institute of Information Technology(IIIT) Una, Himachal Pradesh",0.0,0.0,0.0,285.0,9.0,294.0,294.0
+"Indian Institute of Information Technology(IIIT), Vadodara, Gujrat",0.0,0.0,0.0,333.0,82.0,415.0,415.0
+"Indian Institute of Information Technology, Agartala",0.0,0.0,0.0,80.0,20.0,100.0,100.0
+"Indian Institute of Information Technology, Allahabad",0.0,0.0,0.0,439.0,0.0,439.0,439.0
+"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",0.0,0.0,0.0,482.0,111.0,593.0,593.0
+"Indian Institute of Information Technology, Vadodara International Campus Diu (IIITVICD)",0.0,0.0,0.0,185.0,43.0,228.0,228.0
+Indian Institute of Technology (BHU) Varanasi,1513.0,76.0,1589.0,1528.0,61.0,1589.0,0.0
+Indian Institute of Technology (ISM) Dhanbad,1010.0,115.0,1125.0,1109.0,101.0,1210.0,85.0
+Indian Institute of Technology Bhilai,270.0,9.0,279.0,316.0,13.0,329.0,50.0
+Indian Institute of Technology Bhubaneswar,496.0,0.0,496.0,496.0,0.0,496.0,0.0
+Indian Institute of Technology Bombay,1204.0,174.0,1378.0,1204.0,156.0,1360.0,-18.0
+Indian Institute of Technology Delhi,1152.0,57.0,1209.0,1239.0,0.0,1239.0,30.0
+Indian Institute of Technology Dharwad,363.0,22.0,385.0,363.0,22.0,385.0,0.0
+Indian Institute of Technology Gandhinagar,320.0,80.0,400.0,288.0,72.0,360.0,-40.0
+Indian Institute of Technology Goa,125.0,32.0,157.0,132.0,33.0,165.0,8.0
+Indian Institute of Technology Guwahati,855.0,107.0,962.0,855.0,107.0,962.0,0.0
+Indian Institute of Technology Hyderabad,494.0,101.0,595.0,529.0,101.0,630.0,35.0
+Indian Institute of Technology Indore,445.0,35.0,480.0,445.0,35.0,480.0,0.0
+Indian Institute of Technology Jammu,280.0,0.0,280.0,305.0,0.0,305.0,25.0
+Indian Institute of Technology Jodhpur,480.0,120.0,600.0,488.0,122.0,610.0,10.0
+Indian Institute of Technology Kanpur,964.0,246.0,1210.0,964.0,246.0,1210.0,0.0
+Indian Institute of Technology Kharagpur,1699.0,200.0,1899.0,1719.0,200.0,1919.0,20.0
+Indian Institute of Technology Madras,1054.0,74.0,1128.0,1054.0,67.0,1121.0,-7.0
+Indian Institute of Technology Mandi,501.0,19.0,520.0,501.0,19.0,520.0,0.0
+Indian Institute of Technology Palakkad,160.0,40.0,200.0,160.0,40.0,200.0,0.0
+Indian Institute of Technology Patna,782.0,42.0,824.0,782.0,35.0,817.0,-7.0
+Indian Institute of Technology Roorkee,1225.0,128.0,1353.0,1246.0,107.0,1353.0,0.0
+Indian Institute of Technology Ropar,382.0,48.0,430.0,598.0,48.0,646.0,216.0
+Indian Institute of Technology Tirupati,241.0,13.0,254.0,241.0,13.0,254.0,0.0
+"Indian institute of information technology, Raichur, Karnataka",0.0,0.0,0.0,220.0,0.0,220.0,220.0
+Institute Name,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Institute of Chemical Technology, Mumbai: Indian Oil Odisha Campus, Bhubaneswar",0.0,0.0,0.0,66.0,0.0,66.0,66.0
+"Institute of Engineering and Technology, Dr. H. S. Gour University. Sagar (A Central University)",0.0,0.0,0.0,360.0,0.0,360.0,360.0
+"Institute of Infrastructure, Technology, Research and Management-Ahmedabad",0.0,0.0,0.0,192.0,0.0,192.0,192.0
+"International Institute of Information Technology, Bhubaneswar",0.0,0.0,0.0,223.0,0.0,223.0,223.0
+"International Institute of Information Technology, Naya Raipur",0.0,0.0,0.0,95.0,24.0,119.0,119.0
+Islamic University of Science and Technology Kashmir,0.0,0.0,0.0,20.0,0.0,20.0,20.0
+"J.K. Institute of Applied Physics & Technology, Department of Electronics & Communication, University of Allahabad- Allahabad",0.0,0.0,0.0,86.0,0.0,86.0,86.0
+"Jawaharlal Nehru University, Delhi",0.0,0.0,0.0,126.0,0.0,126.0,126.0
+Malaviya National Institute of Technology Jaipur,888.0,0.0,888.0,888.0,0.0,888.0,0.0
+Maulana Azad National Institute of Technology Bhopal,962.0,241.0,1203.0,970.0,233.0,1203.0,0.0
+"Mizoram University, Aizawl",0.0,0.0,0.0,96.0,0.0,96.0,96.0
+Motilal Nehru National Institute of Technology Allahabad,1078.0,56.0,1134.0,1078.0,56.0,1134.0,0.0
+"National Institute of Advanced Manufacturing Technology, Ranchi",0.0,0.0,0.0,285.0,6.0,291.0,291.0
+"National Institute of Electronics and Information Technology, Ajmer (Rajasthan)",0.0,0.0,0.0,60.0,0.0,60.0,60.0
+"National Institute of Electronics and Information Technology, Aurangabad (Maharashtra)",0.0,0.0,0.0,120.0,0.0,120.0,120.0
+"National Institute of Electronics and Information Technology, Gorakhpur (UP)",0.0,0.0,0.0,120.0,0.0,120.0,120.0
+"National Institute of Electronics and Information Technology, Patna (Bihar)",0.0,0.0,0.0,60.0,0.0,60.0,60.0
+"National Institute of Electronics and Information Technology, Ropar (Punjab)",0.0,0.0,0.0,60.0,0.0,60.0,60.0
+"National Institute of Food Technology Entrepreneurship and Management, Kundli",0.0,0.0,0.0,100.0,0.0,100.0,100.0
+"National Institute of Food Technology Entrepreneurship and Management, Thanjavur",0.0,0.0,0.0,90.0,0.0,90.0,90.0
+National Institute of Technology,22.0,0.0,22.0,0.0,0.0,0.0,-22.0
+National Institute of Technology Agartala,875.0,209.0,1084.0,942.0,218.0,1160.0,76.0
+National Institute of Technology Arunachal Pradesh,160.0,0.0,160.0,230.0,0.0,230.0,70.0
+National Institute of Technology Calicut,1196.0,44.0,1240.0,1238.0,40.0,1278.0,38.0
+National Institute of Technology Delhi,374.0,0.0,374.0,374.0,0.0,374.0,0.0
+National Institute of Technology Durgapur,969.0,0.0,969.0,969.0,0.0,969.0,0.0
+National Institute of Technology Goa,224.0,0.0,224.0,224.0,0.0,224.0,0.0
+National Institute of Technology Hamirpur,944.0,0.0,944.0,944.0,0.0,944.0,0.0
+"National Institute of Technology Karnataka, Surathkal",956.0,2.0,958.0,956.0,5.0,961.0,3.0
+National Institute of Technology Meghalaya,165.0,0.0,165.0,165.0,0.0,165.0,0.0
+National Institute of Technology Nagaland,198.0,2.0,200.0,198.0,3.0,201.0,1.0
+National Institute of Technology Patna,941.0,0.0,941.0,980.0,1.0,981.0,40.0
+National Institute of Technology Puducherry,253.0,0.0,253.0,275.0,0.0,275.0,22.0
+National Institute of Technology Raipur,1158.0,1.0,1159.0,1158.0,1.0,1159.0,0.0
+National Institute of Technology Sikkim,190.0,0.0,190.0,190.0,0.0,190.0,0.0
+"National Institute of Technology, Andhra Pradesh",0.0,0.0,0.0,480.0,0.0,480.0,480.0
+"National Institute of Technology, Jamshedpur",751.0,0.0,751.0,751.0,0.0,751.0,0.0
+"National Institute of Technology, Kurukshetra",1147.0,0.0,1147.0,1147.0,0.0,1147.0,0.0
+"National Institute of Technology, Manipur",226.0,0.0,226.0,226.0,0.0,226.0,0.0
+"National Institute of Technology, Mizoram",177.0,13.0,190.0,177.0,13.0,190.0,0.0
+"National Institute of Technology, Rourkela",1058.0,7.0,1065.0,1058.0,2.0,1060.0,-5.0
+"National Institute of Technology, Silchar",903.0,0.0,903.0,903.0,0.0,903.0,0.0
+"National Institute of Technology, Srinagar",860.0,39.0,899.0,860.0,39.0,899.0,0.0
+"National Institute of Technology, Tiruchirappalli",1038.0,0.0,1038.0,1038.0,0.0,1038.0,0.0
+"National Institute of Technology, Uttarakhand",160.0,40.0,200.0,200.0,0.0,200.0,0.0
+"National Institute of Technology, Warangal",727.0,0.0,727.0,1049.0,0.0,1049.0,322.0
+"North Eastern Regional Institute of Science and Technology, Nirjuli-791109 (Itanagar),Arunachal Pradesh",0.0,0.0,0.0,16.0,0.0,16.0,16.0
+"North-Eastern Hill University, Shillong",0.0,0.0,0.0,80.0,0.0,80.0,80.0
+"Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur",0.0,0.0,0.0,550.0,0.0,550.0,550.0
+"Puducherry Technological University, Puducherry",0.0,0.0,0.0,317.0,0.0,317.0,317.0
+"Punjab Engineering College, Chandigarh",0.0,0.0,0.0,800.0,0.0,800.0,800.0
+"Rajiv Gandhi National Aviation University, Fursatganj, Amethi (UP)",0.0,0.0,0.0,120.0,0.0,120.0,120.0
+Sant Longowal Institute of Engineering and Technology,0.0,0.0,0.0,625.0,0.0,625.0,625.0
+"Sardar Vallabhbhai National Institute of Technology, Surat",0.0,0.0,0.0,1400.0,0.0,1400.0,1400.0
+"School of Engineering, Tezpur University, Napaam, Tezpur",0.0,0.0,0.0,165.0,0.0,165.0,165.0
+"School of Planning & Architecture, Bhopal",0.0,0.0,0.0,132.0,0.0,132.0,132.0
+"School of Planning & Architecture, New Delhi",0.0,0.0,0.0,175.0,0.0,175.0,175.0
+School of Planning & Architecture: Vijayawada,0.0,0.0,0.0,132.0,0.0,132.0,132.0
+"School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",0.0,0.0,0.0,690.0,0.0,690.0,690.0
+Shri G. S. Institute of Technology and Science Indore,0.0,0.0,0.0,43.0,0.0,43.0,43.0
+"Shri Mata Vaishno Devi University, Katra, Jammu & Kashmir",0.0,0.0,0.0,335.0,0.0,335.0,335.0
+University of Hyderabad,0.0,0.0,0.0,110.0,0.0,110.0,110.0
+"Visvesvaraya National Institute of Technology, Nagpur",0.0,0.0,0.0,933.0,0.0,933.0,933.0

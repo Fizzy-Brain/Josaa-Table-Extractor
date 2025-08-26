@@ -30,8 +30,8 @@ college_2025 = df_2025.groupby('Institute Name').agg({
     'Total': 'sum'
 }).reset_index()
 
-# Merge college data - only keep institutes that exist in both years
-form1 = pd.merge(college_2024, college_2025, on='Institute Name', how='inner', suffixes=('_2024', '_2025'))
+# Merge college data - keep all institutes from both years
+form1 = pd.merge(college_2024, college_2025, on='Institute Name', how='outer', suffixes=('_2024', '_2025')).fillna(0)
 form1['Difference'] = form1['Total_2025'] - form1['Total_2024']
 
 # Rename columns for Form 1
@@ -42,8 +42,8 @@ form1.columns = ['Institute Name', '2024-25 Seat Capacity', '2024-25 Female Supe
 form2_2024 = df_2024.copy()
 form2_2025 = df_2025.copy()
 
-# Merge program data - only keep programs that exist in both years
-form2 = pd.merge(form2_2024, form2_2025, on=['Institute Name', 'Program Name'], how='inner', suffixes=('_2024', '_2025'))
+# Merge program data - keep all programs from both years
+form2 = pd.merge(form2_2024, form2_2025, on=['Institute Name', 'Program Name'], how='outer', suffixes=('_2024', '_2025')).fillna(0)
 form2['Difference'] = form2['Total_2025'] - form2['Total_2024']
 
 # Rename columns for Form 2
@@ -63,8 +63,8 @@ program_2025 = df_2025.groupby('Program Name').agg({
     'Total': 'sum'
 }).reset_index()
 
-# Merge program data - only keep programs that exist in both years
-form3 = pd.merge(program_2024, program_2025, on='Program Name', how='inner', suffixes=('_2024', '_2025'))
+# Merge program data - keep all programs from both years
+form3 = pd.merge(program_2024, program_2025, on='Program Name', how='outer', suffixes=('_2024', '_2025')).fillna(0)
 form3['Difference'] = form3['Total_2025'] - form3['Total_2024']
 
 # Rename columns for Form 3
